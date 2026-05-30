@@ -1,0 +1,91 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "TabelaHash2",
+      "request": "launch",
+      "mainClass": "TabelaHash2",
+      "projectName": "Estrutura de Dados_ad64881a"
+    },
+    {
+      "type": "java",
+      "name": "recursividade",
+      "request": "launch",
+      "mainClass": "recursividade",
+      "projectName": "Estrutura de Dados_ad64881a"
+    },
+    {
+      "type": "java",
+      "name": "acharValorVetorRec",
+      "request": "launch",
+      "mainClass": "acharValorVetorRec",
+      "projectName": "Estrutura de Dados_e6e535b7"
+    },
+    {
+      "type": "java",
+      "name": "recursividade",
+      "request": "launch",
+      "mainClass": "recursividade",
+      "projectName": "Estrutura de Dados_e6e535b7"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "Estrutura de Dados_e6e535b7"
+    },
+    {
+      "type": "java",
+      "name": "acharValorVetor",
+      "request": "launch",
+      "mainClass": "acharValorVetor",
+      "projectName": "Estrutura de Dados_e6e535b7"
+    },
+    {
+      "type": "java",
+      "name": "ehPar1",
+      "request": "launch",
+      "mainClass": "ehPar1",
+      "projectName": "Estrutura de Dados_e6e535b7"
+    },
+    {
+      "type": "java",
+      "name": "ehPar2",
+      "request": "launch",
+      "mainClass": "ehPar2",
+      "projectName": "Estrutura de Dados_e6e535b7"
+    },
+    {
+      "type": "java",
+      "name": "enPar3",
+      "request": "launch",
+      "mainClass": "enPar3",
+      "projectName": "Estrutura de Dados_e6e535b7"
+    },
+    {
+      "type": "java",
+      "name": "ordenacao",
+      "request": "launch",
+      "mainClass": "ordenacao",
+      "projectName": "Estrutura de Dados_e6e535b7"
+    },
+    {
+      "type": "java",
+      "name": "tabuada10",
+      "request": "launch",
+      "mainClass": "tabuada10",
+      "projectName": "Estrutura de Dados_e6e535b7"
+    }
+  ]
+}

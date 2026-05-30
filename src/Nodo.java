@@ -1,6 +1,7 @@
 public class Nodo {
   private Nodo prox;
   private int valor;
+  private Nodo anterior;
 
   public Nodo(int valor) {
     prox = null;
